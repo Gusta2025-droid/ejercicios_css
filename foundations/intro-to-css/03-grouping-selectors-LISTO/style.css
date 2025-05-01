@@ -1,0 +1,11 @@
+.fondo_negro, .fondo_amarillo {
+    font-size: 28px;
+    font-family: Helvetica, Times, "New Roman", sans-serif;
+}
+.fondo_negro{
+    background-color: black;
+    color: white;
+}
+.fondo_amarillo{
+    background-color: yellow;
+}
